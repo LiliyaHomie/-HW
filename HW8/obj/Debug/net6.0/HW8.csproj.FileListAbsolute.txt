@@ -1,0 +1,15 @@
+/Users/liliya/Desktop/C#Lessons/HW/HW8/obj/Debug/net6.0/HW8.csproj.AssemblyReference.cache
+/Users/liliya/Desktop/C#Lessons/HW/HW8/obj/Debug/net6.0/HW8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liliya/Desktop/C#Lessons/HW/HW8/obj/Debug/net6.0/HW8.AssemblyInfoInputs.cache
+/Users/liliya/Desktop/C#Lessons/HW/HW8/obj/Debug/net6.0/HW8.AssemblyInfo.cs
+/Users/liliya/Desktop/C#Lessons/HW/HW8/obj/Debug/net6.0/HW8.csproj.CoreCompileInputs.cache
+/Users/liliya/Desktop/C#Lessons/HW/HW8/bin/Debug/net6.0/HW8
+/Users/liliya/Desktop/C#Lessons/HW/HW8/bin/Debug/net6.0/HW8.deps.json
+/Users/liliya/Desktop/C#Lessons/HW/HW8/bin/Debug/net6.0/HW8.runtimeconfig.json
+/Users/liliya/Desktop/C#Lessons/HW/HW8/bin/Debug/net6.0/HW8.dll
+/Users/liliya/Desktop/C#Lessons/HW/HW8/bin/Debug/net6.0/HW8.pdb
+/Users/liliya/Desktop/C#Lessons/HW/HW8/obj/Debug/net6.0/HW8.dll
+/Users/liliya/Desktop/C#Lessons/HW/HW8/obj/Debug/net6.0/refint/HW8.dll
+/Users/liliya/Desktop/C#Lessons/HW/HW8/obj/Debug/net6.0/HW8.pdb
+/Users/liliya/Desktop/C#Lessons/HW/HW8/obj/Debug/net6.0/HW8.genruntimeconfig.cache
+/Users/liliya/Desktop/C#Lessons/HW/HW8/obj/Debug/net6.0/ref/HW8.dll
