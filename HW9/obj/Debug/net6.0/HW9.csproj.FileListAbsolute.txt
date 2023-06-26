@@ -1,0 +1,15 @@
+/Users/liliya/Desktop/C#Lessons/HW/HW9/obj/Debug/net6.0/HW9.csproj.AssemblyReference.cache
+/Users/liliya/Desktop/C#Lessons/HW/HW9/obj/Debug/net6.0/HW9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liliya/Desktop/C#Lessons/HW/HW9/obj/Debug/net6.0/HW9.AssemblyInfoInputs.cache
+/Users/liliya/Desktop/C#Lessons/HW/HW9/obj/Debug/net6.0/HW9.AssemblyInfo.cs
+/Users/liliya/Desktop/C#Lessons/HW/HW9/obj/Debug/net6.0/HW9.csproj.CoreCompileInputs.cache
+/Users/liliya/Desktop/C#Lessons/HW/HW9/bin/Debug/net6.0/HW9
+/Users/liliya/Desktop/C#Lessons/HW/HW9/bin/Debug/net6.0/HW9.deps.json
+/Users/liliya/Desktop/C#Lessons/HW/HW9/bin/Debug/net6.0/HW9.runtimeconfig.json
+/Users/liliya/Desktop/C#Lessons/HW/HW9/bin/Debug/net6.0/HW9.dll
+/Users/liliya/Desktop/C#Lessons/HW/HW9/bin/Debug/net6.0/HW9.pdb
+/Users/liliya/Desktop/C#Lessons/HW/HW9/obj/Debug/net6.0/HW9.dll
+/Users/liliya/Desktop/C#Lessons/HW/HW9/obj/Debug/net6.0/refint/HW9.dll
+/Users/liliya/Desktop/C#Lessons/HW/HW9/obj/Debug/net6.0/HW9.pdb
+/Users/liliya/Desktop/C#Lessons/HW/HW9/obj/Debug/net6.0/HW9.genruntimeconfig.cache
+/Users/liliya/Desktop/C#Lessons/HW/HW9/obj/Debug/net6.0/ref/HW9.dll
