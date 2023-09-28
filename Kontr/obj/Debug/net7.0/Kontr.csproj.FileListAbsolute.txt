@@ -1,0 +1,14 @@
+/Users/liliya/Downloads/Kontr/bin/Debug/net7.0/Kontr
+/Users/liliya/Downloads/Kontr/bin/Debug/net7.0/Kontr.deps.json
+/Users/liliya/Downloads/Kontr/bin/Debug/net7.0/Kontr.runtimeconfig.json
+/Users/liliya/Downloads/Kontr/bin/Debug/net7.0/Kontr.dll
+/Users/liliya/Downloads/Kontr/bin/Debug/net7.0/Kontr.pdb
+/Users/liliya/Downloads/Kontr/obj/Debug/net7.0/Kontr.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liliya/Downloads/Kontr/obj/Debug/net7.0/Kontr.AssemblyInfoInputs.cache
+/Users/liliya/Downloads/Kontr/obj/Debug/net7.0/Kontr.AssemblyInfo.cs
+/Users/liliya/Downloads/Kontr/obj/Debug/net7.0/Kontr.csproj.CoreCompileInputs.cache
+/Users/liliya/Downloads/Kontr/obj/Debug/net7.0/Kontr.dll
+/Users/liliya/Downloads/Kontr/obj/Debug/net7.0/refint/Kontr.dll
+/Users/liliya/Downloads/Kontr/obj/Debug/net7.0/Kontr.pdb
+/Users/liliya/Downloads/Kontr/obj/Debug/net7.0/Kontr.genruntimeconfig.cache
+/Users/liliya/Downloads/Kontr/obj/Debug/net7.0/ref/Kontr.dll
